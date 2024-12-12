@@ -43,7 +43,8 @@ def launch_estimation(filename = None, continuous_to_categorical = None, target 
             print('Please provide all parameters and try again.')
         exit()
 
-
+    if epsilon == 1:
+        epsilon = 0.1
     #For any random dataset 
     # filename = 'random_2402_34'#'random_1091_50'
     # continuous_to_categorical = [
