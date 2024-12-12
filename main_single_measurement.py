@@ -2,11 +2,11 @@
 import os
 import platform
 import sys
-from validation_files import framework
+from single_measurement_files import framework
 from termcolor import colored
-from validation_files.output import report_function
+from single_measurement_files.output import report_function
 from collections import defaultdict
-from validation_files.save_report_to_csv import save_report_to_csv
+from single_measurement_files.save_report_to_csv import save_report_to_csv
 
 def launch_measurement(input_filename=None, target_attribute_ML=None, num_to_categ = None, possible_known_attributes = None, secret_mode = None,  save_my_report_to_csv = None):
 

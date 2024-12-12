@@ -5,10 +5,10 @@ import os
 from collections import defaultdict
 import sys
 
-from validation_files.misc_functions import *
-from validation_files import pet
-from validation_files import ml_tasks
-from validation_files import check_privacy
+from single_measurement_files.misc_functions import *
+from single_measurement_files import pet
+from single_measurement_files import ml_tasks
+from single_measurement_files import check_privacy
 import time
 
 
@@ -32,7 +32,7 @@ def main_framework(input_filename, target_attribute_ML, num_to_categ,  input_pos
    
     filename, target, continuous_to_categorical, possible_columns, secret = organise_all_input(input_filename, target_attribute_ML, num_to_categ, input_possible_known_attributes, input_secret)
 
-    original_dataset = pd.read_csv('preparation_files/datasets/'+ filename + '.csv')
+    original_dataset = pd.read_csv('put_your_dataset_here/'+ filename + '.csv')
     
 
     what_kind_of_list = determine_the_list(possible_columns, original_dataset, secret)  #1 if List, 0 if List of lists

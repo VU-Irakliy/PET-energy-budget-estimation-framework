@@ -20,8 +20,11 @@ from numpy.linalg import svd
 
 
 def retrieve_dataset_data(the_dataset, continuous_to_categorical, epsilon, target):
-
-    original_dataset = pd.read_csv(f'put_your_dataset_here/{the_dataset}.csv')
+    try:
+        original_dataset = pd.read_csv(f'put_your_dataset_here/{the_dataset}.csv')
+    except:
+        print('Error in reading the dataset. Check the file path and try again.')
+        exit()
     dataset_memory_usage = original_dataset.memory_usage(deep=True).sum()
     memory_usage_mb = dataset_memory_usage / (1024 ** 2)
     
@@ -75,14 +78,14 @@ def retrieve_dataset_data(the_dataset, continuous_to_categorical, epsilon, targe
 
 
 def retrieve_records():
-    syn_records = pd.read_csv('framework_execution_files/energy_records.csv', encoding='utf-8')
-    syn_records = syn_records.drop('dataset_name', axis=1)
+    energy_records = pd.read_csv('framework_execution_files/energy_records.csv', encoding='utf-8')
+    energy_records = energy_records.drop('dataset_name', axis=1)
  
     else_records = pd.read_csv('framework_execution_files/privacy_utility_records.csv', encoding='utf-8')
     else_records = else_records.drop('dataset_name', axis=1)
 
 
-    return syn_records, else_records
+    return energy_records, else_records
  
 def compute_continuous_correlation(df):
     """Computes mean and maximum continuous_correlation using the correlation matrix."""
