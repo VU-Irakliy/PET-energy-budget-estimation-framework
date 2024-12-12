@@ -1,0 +1,235 @@
+age,sex,hospdead,dzgroup,edu,income,charges,race
+62.84998,male,0.0,Lung Cancer,11.0,$11-$25k,9715.0,other
+60.33899,female,1.0,Cirrhosis,12.0,$11-$25k,34496.0,white
+52.74698,female,0.0,Cirrhosis,12.0,under $11k,41094.0,white
+42.38498,female,0.0,Lung Cancer,11.0,under $11k,3075.0,white
+79.88495,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,50127.0,white
+93.01599,male,1.0,Coma,14.0,under $11k,6884.0,white
+62.37097,male,0.0,CHF,14.0,$25-$50k,30460.0,white
+86.83899,male,0.0,CHF,12.0,under $11k,30460.0,white
+85.65594,male,0.0,Lung Cancer,12.0,under $11k,25024.0,black
+42.25897,female,0.0,Colon Cancer,11.0,$25-$50k,9914.0,hispanic
+47.94498,male,0.0,CHF,12.0,under $11k,15558.0,white
+59.20099,male,1.0,Lung Cancer,14.0,under $11k,29388.0,white
+29.002,female,0.0,Cirrhosis,16.0,$11-$25k,4353.0,white
+68.14197,male,0.0,CHF,12.0,$11-$25k,19783.0,white
+43.53998,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,706577.0,white
+58.823,female,0.0,Lung Cancer,12.0,>$50k,10758.0,white
+45.418,male,0.0,Lung Cancer,12.0,under $11k,8400.0,white
+63.66299,female,1.0,ARF/MOSF w/Sepsis,22.0,$25-$50k,283303.0,white
+31.84399,male,1.0,Cirrhosis,16.0,under $11k,27985.0,white
+55.13797,male,0.0,CHF,8.0,$11-$25k,18191.0,hispanic
+68.25494,male,0.0,Lung Cancer,13.0,>$50k,10755.0,white
+48.70398,male,0.0,Lung Cancer,16.0,under $11k,55384.0,other
+49.61298,female,0.0,ARF/MOSF w/Sepsis,12.0,$25-$50k,542266.0,white
+50.724,female,0.0,Lung Cancer,12.0,$25-$50k,4913.0,asian
+29.36099,female,0.0,Colon Cancer,17.0,$25-$50k,7792.0,white
+53.84,male,0.0,COPD,12.0,under $11k,9871.0,white
+82.41498,female,1.0,Lung Cancer,12.0,under $11k,7212.0,white
+27.32399,male,1.0,MOSF w/Malig,19.0,under $11k,160060.0,asian
+30.10799,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,57611.0,asian
+50.37097,male,0.0,Cirrhosis,16.0,$11-$25k,465380.0,white
+74.48297,male,0.0,CHF,16.0,>$50k,18134.0,white
+55.73199,male,0.0,Cirrhosis,8.0,under $11k,52092.0,hispanic
+77.21295,female,0.0,COPD,0.0,under $11k,9078.0,hispanic
+61.02399,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,109627.0,white
+56.48999,female,0.0,CHF,12.0,under $11k,38548.0,hispanic
+57.53299,female,0.0,Cirrhosis,14.0,under $11k,156556.0,hispanic
+68.98596,female,0.0,COPD,10.0,under $11k,5763.0,white
+41.97897,male,0.0,CHF,14.0,$11-$25k,5552.0,white
+19.79199,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,167971.0,black
+57.50897,female,0.0,CHF,14.0,under $11k,6403.0,black
+73.40698,male,0.0,Colon Cancer,12.0,under $11k,22934.0,white
+68.31799,male,0.0,Colon Cancer,21.0,>$50k,9205.0,white
+75.79498,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,271250.0,white
+45.71899,male,0.0,CHF,12.0,under $11k,115112.0,white
+75.48798,male,0.0,CHF,16.0,under $11k,120920.0,hispanic
+74.995,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,348931.0,white
+56.19397,male,1.0,ARF/MOSF w/Sepsis,6.0,under $11k,230733.0,other
+44.849,female,0.0,MOSF w/Malig,10.0,$11-$25k,25176.0,hispanic
+51.09698,female,0.0,CHF,11.0,under $11k,30877.0,black
+36.30899,male,0.0,CHF,16.0,under $11k,23476.0,white
+76.25696,male,0.0,CHF,12.0,under $11k,14926.0,white
+51.30499,male,0.0,CHF,12.0,under $11k,52187.0,black
+74.54297,female,0.0,COPD,12.0,under $11k,9631.0,white
+54.30798,male,0.0,Lung Cancer,17.0,$25-$50k,29939.0,white
+77.57697,female,0.0,CHF,12.0,under $11k,3124.0,other
+84.95795,male,0.0,CHF,14.0,>$50k,30942.0,white
+41.52197,male,1.0,MOSF w/Malig,18.0,>$50k,320843.0,white
+39.685,female,0.0,ARF/MOSF w/Sepsis,22.0,$25-$50k,220639.0,white
+72.55896,female,1.0,COPD,12.0,under $11k,4894.0,white
+60.10098,male,0.0,Cirrhosis,12.0,under $11k,63466.0,white
+70.81195,male,0.0,CHF,12.0,under $11k,6254.0,black
+30.76199,male,0.0,CHF,10.0,under $11k,8437.0,hispanic
+64.23798,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,321716.0,white
+51.70999,male,0.0,CHF,12.0,under $11k,31222.0,asian
+64.64294,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,180786.0,white
+69.41498,male,0.0,Lung Cancer,16.0,$25-$50k,8706.0,white
+57.19098,male,0.0,CHF,12.0,$11-$25k,28476.0,white
+37.73297,male,0.0,CHF,12.0,$25-$50k,26278.0,white
+44.05499,female,0.0,Colon Cancer,16.0,>$50k,18563.0,white
+72.15594,male,0.0,ARF/MOSF w/Sepsis,12.0,>$50k,187014.0,white
+45.56598,male,1.0,MOSF w/Malig,18.0,$25-$50k,181701.0,white
+41.95999,male,0.0,Lung Cancer,16.0,>$50k,4173.0,white
+59.31,male,0.0,ARF/MOSF w/Sepsis,15.0,>$50k,538692.0,white
+45.61499,female,1.0,Cirrhosis,16.0,>$50k,302353.0,white
+65.98499,female,0.0,Colon Cancer,12.0,under $11k,18980.0,hispanic
+95.79199,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,74764.0,white
+76.59094,male,0.0,Colon Cancer,17.0,$11-$25k,7137.0,white
+68.10095,male,0.0,CHF,12.0,$11-$25k,9586.0,white
+78.85297,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,39420.0,white
+37.87,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,397017.0,white
+74.90997,female,0.0,COPD,16.0,under $11k,8166.0,white
+31.702,female,0.0,Cirrhosis,14.0,under $11k,231119.0,black
+54.93997,female,0.0,CHF,14.0,$11-$25k,27561.0,white
+43.30197,male,1.0,Cirrhosis,14.0,under $11k,283145.0,hispanic
+54.92999,female,0.0,Lung Cancer,12.0,$25-$50k,15392.0,asian
+70.21497,male,0.0,Colon Cancer,12.0,$11-$25k,8442.0,white
+67.09399,female,0.0,Cirrhosis,3.0,under $11k,71992.0,black
+65.05096,male,0.0,Cirrhosis,14.0,$25-$50k,14944.0,white
+69.34698,male,1.0,MOSF w/Malig,18.0,under $11k,433684.0,asian
+64.98798,female,0.0,Lung Cancer,12.0,under $11k,8137.0,white
+80.62097,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,104163.0,white
+72.172,male,1.0,Lung Cancer,12.0,under $11k,62158.0,white
+53.06198,male,0.0,COPD,12.0,under $11k,6734.0,white
+52.50699,female,1.0,CHF,12.0,$11-$25k,20735.0,white
+74.97095,male,0.0,Colon Cancer,12.0,under $11k,43009.0,white
+53.34998,male,0.0,ARF/MOSF w/Sepsis,17.0,>$50k,483991.0,asian
+89.58795,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,19238.0,white
+56.62399,male,0.0,Colon Cancer,12.0,>$50k,27408.0,white
+75.04199,male,0.0,Colon Cancer,16.0,under $11k,8723.0,hispanic
+75.76196,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,74162.0,white
+32.99899,female,1.0,Cirrhosis,19.0,$25-$50k,88720.0,other
+72.39697,female,0.0,CHF,10.0,under $11k,11588.0,black
+66.5,male,0.0,CHF,10.0,under $11k,29870.0,white
+72.78296,male,0.0,CHF,13.0,under $11k,45798.0,white
+61.56897,female,0.0,CHF,8.0,under $11k,22040.0,white
+52.43298,female,0.0,Colon Cancer,16.0,$11-$25k,12161.0,black
+66.93195,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,88469.0,black
+84.76697,female,0.0,COPD,16.0,under $11k,19608.0,white
+80.172,male,0.0,CHF,8.0,$11-$25k,6148.0,white
+79.96997,male,0.0,CHF,14.0,$11-$25k,17554.0,other
+66.45599,male,0.0,CHF,16.0,under $11k,25668.0,white
+58.116,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,33960.0,white
+67.49097,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,172597.0,white
+52.09,male,0.0,Cirrhosis,8.0,$11-$25k,13414.0,white
+66.59296,male,0.0,CHF,8.0,$11-$25k,5872.0,black
+56.13998,male,0.0,Cirrhosis,12.0,under $11k,6083.0,white
+63.76199,male,0.0,Colon Cancer,12.0,under $11k,7737.0,white
+39.73199,male,0.0,CHF,12.0,under $11k,16616.0,black
+60.40198,male,0.0,CHF,16.0,>$50k,9381.0,white
+57.771,male,0.0,Colon Cancer,12.0,under $11k,25187.0,other
+48.07397,male,0.0,CHF,12.0,under $11k,5570.0,other
+76.68396,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,229314.0,black
+78.35699,male,0.0,CHF,12.0,under $11k,4629.0,black
+85.29999,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,20365.0,white
+62.47498,male,0.0,CHF,11.0,$11-$25k,68367.0,white
+76.41296,female,0.0,CHF,6.0,under $11k,4386.0,black
+45.11398,male,1.0,Lung Cancer,12.0,under $11k,13100.0,black
+68.12598,female,0.0,Cirrhosis,12.0,under $11k,6992.0,black
+82.17694,female,0.0,Lung Cancer,15.0,$25-$50k,15942.0,white
+41.87,male,0.0,Cirrhosis,12.0,>$50k,68108.0,white
+76.20795,female,0.0,Cirrhosis,11.0,under $11k,3644.0,black
+60.04398,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,506141.0,white
+77.13898,male,1.0,ARF/MOSF w/Sepsis,20.0,$11-$25k,159553.0,white
+72.96399,female,0.0,ARF/MOSF w/Sepsis,13.0,$11-$25k,42243.0,white
+59.40598,male,0.0,CHF,12.0,>$50k,19852.0,white
+72.83795,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,740010.0,white
+50.23099,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,44480.0,white
+71.56195,female,0.0,Colon Cancer,12.0,$25-$50k,15051.0,white
+71.90399,male,0.0,Colon Cancer,10.0,under $11k,24612.0,hispanic
+44.62997,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,40418.0,white
+51.98398,female,0.0,Colon Cancer,17.0,>$50k,29303.0,white
+53.82599,male,0.0,CHF,12.0,$25-$50k,24587.0,hispanic
+50.431,male,1.0,MOSF w/Malig,12.0,under $11k,70463.0,white
+31.69099,male,0.0,ARF/MOSF w/Sepsis,14.0,$11-$25k,274531.0,hispanic
+65.30896,female,0.0,COPD,12.0,under $11k,84901.0,white
+81.54095,male,0.0,CHF,12.0,$25-$50k,20850.0,white
+66.39795,male,0.0,CHF,16.0,under $11k,17247.0,white
+50.20099,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,218924.0,white
+88.29797,male,0.0,CHF,8.0,under $11k,63639.0,white
+58.41498,female,0.0,Colon Cancer,14.0,$25-$50k,58940.0,white
+56.34998,female,0.0,Lung Cancer,12.0,under $11k,26731.0,white
+71.69897,female,0.0,Colon Cancer,19.0,under $11k,5319.0,white
+32.13998,male,1.0,MOSF w/Malig,12.0,under $11k,256835.0,other
+48.10999,female,0.0,Cirrhosis,2.0,$11-$25k,56562.0,hispanic
+76.383,male,0.0,Colon Cancer,12.0,under $11k,24788.0,other
+57.81,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,125797.0,white
+66.76794,female,0.0,Colon Cancer,12.0,under $11k,15358.0,white
+46.45898,male,0.0,Colon Cancer,16.0,>$50k,21906.0,white
+64.34796,female,0.0,Colon Cancer,12.0,$11-$25k,77328.0,white
+75.23596,female,0.0,Colon Cancer,12.0,$11-$25k,26189.0,asian
+74.60394,male,0.0,ARF/MOSF w/Sepsis,10.0,under $11k,58853.0,white
+36.45999,female,0.0,Coma,12.0,under $11k,201322.0,white
+63.77298,male,1.0,ARF/MOSF w/Sepsis,16.0,>$50k,89043.0,white
+65.70599,male,0.0,Colon Cancer,18.0,$25-$50k,8729.0,hispanic
+20.83199,male,1.0,MOSF w/Malig,12.0,under $11k,392950.0,white
+52.668,female,1.0,Coma,12.0,under $11k,104602.0,white
+75.36798,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,125256.0,white
+53.86697,male,0.0,CHF,18.0,under $11k,20923.0,white
+44.35898,male,0.0,CHF,12.0,$11-$25k,12042.0,white
+53.62097,female,0.0,Cirrhosis,12.0,under $11k,279530.0,white
+84.90295,female,0.0,Colon Cancer,15.0,$11-$25k,9291.0,white
+70.83899,male,0.0,CHF,12.0,under $11k,10955.0,white
+70.06195,male,0.0,CHF,12.0,under $11k,15687.0,hispanic
+37.71899,male,1.0,ARF/MOSF w/Sepsis,13.0,under $11k,268805.0,white
+65.45697,female,1.0,Lung Cancer,13.0,$11-$25k,41397.0,black
+29.88399,female,0.0,ARF/MOSF w/Sepsis,16.0,>$50k,223581.0,white
+87.521,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,469824.0,white
+18.146,male,0.0,ARF/MOSF w/Sepsis,12.0,$11-$25k,641888.0,hispanic
+42.92398,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,277421.0,white
+37.396,female,1.0,Cirrhosis,13.0,$11-$25k,166927.0,black
+63.46899,male,0.0,Colon Cancer,12.0,under $11k,29732.0,white
+53.57999,female,0.0,COPD,12.0,under $11k,5132.0,white
+70.07495,male,0.0,CHF,11.0,$11-$25k,33290.0,black
+47.633,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,138674.0,asian
+51.54797,male,0.0,ARF/MOSF w/Sepsis,10.0,under $11k,170244.0,white
+90.83899,female,0.0,CHF,12.0,under $11k,14065.0,white
+35.625,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,23421.0,black
+63.85999,female,1.0,Coma,12.0,under $11k,47424.0,white
+67.04199,male,0.0,ARF/MOSF w/Sepsis,10.0,$11-$25k,100735.0,white
+61.16098,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,970982.0,white
+77.13098,male,0.0,Lung Cancer,12.0,under $11k,29403.0,white
+19.14,male,0.0,CHF,12.0,$25-$50k,216359.0,white
+64.18097,male,0.0,Colon Cancer,14.0,$11-$25k,26311.0,white
+53.30298,female,0.0,Colon Cancer,12.0,under $11k,17823.0,white
+55.28799,female,0.0,CHF,13.0,under $11k,19419.0,white
+53.14697,male,0.0,CHF,14.0,under $11k,16552.0,asian
+32.44098,male,0.0,ARF/MOSF w/Sepsis,11.0,under $11k,1273347.0,white
+58.95999,female,0.0,ARF/MOSF w/Sepsis,13.0,$25-$50k,207902.0,white
+27.411,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,122322.0,white
+77.09497,male,0.0,CHF,16.0,>$50k,23862.0,white
+63.69299,female,0.0,CHF,11.0,$11-$25k,46112.0,white
+62.185,female,0.0,Lung Cancer,12.0,under $11k,35575.0,black
+53.52197,female,0.0,COPD,12.0,$11-$25k,20893.0,white
+23.39999,female,1.0,ARF/MOSF w/Sepsis,11.0,$11-$25k,943804.0,hispanic
+65.60999,female,0.0,CHF,12.0,under $11k,25467.0,white
+70.28094,male,1.0,Cirrhosis,12.0,under $11k,28159.0,white
+60.71997,male,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,63858.0,white
+77.00494,female,0.0,CHF,12.0,under $11k,15565.0,white
+42.05298,male,0.0,CHF,12.0,$11-$25k,24897.0,hispanic
+60.75,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,254366.0,asian
+71.28796,male,1.0,CHF,15.0,under $11k,4854.0,white
+22.66899,female,0.0,CHF,15.0,under $11k,18751.0,hispanic
+59.12399,female,0.0,ARF/MOSF w/Sepsis,11.0,$11-$25k,43164.0,white
+63.896,male,0.0,Cirrhosis,12.0,>$50k,227392.0,hispanic
+87.43097,male,1.0,CHF,12.0,under $11k,89889.0,white
+78.89899,male,0.0,COPD,12.0,under $11k,40247.0,white
+83.64099,male,0.0,CHF,10.0,under $11k,25653.0,white
+47.737,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,592486.0,black
+78.84998,female,0.0,CHF,8.0,under $11k,9914.0,black
+51.18399,male,0.0,CHF,6.0,under $11k,22621.0,black
+61.45398,male,0.0,Colon Cancer,30.0,>$50k,60175.0,white
+55.20297,male,0.0,CHF,15.0,under $11k,3035.0,other
+74.06396,male,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,44728.0,white
+90.90796,female,1.0,ARF/MOSF w/Sepsis,12.0,under $11k,69364.0,white
+38.94897,male,1.0,Cirrhosis,9.0,$11-$25k,133918.0,hispanic
+65.14697,female,0.0,Lung Cancer,12.0,under $11k,5223.0,white
+51.62799,female,0.0,CHF,13.0,$25-$50k,23146.0,white
+56.20499,male,0.0,Lung Cancer,12.0,under $11k,42041.0,white
+65.88599,female,0.0,ARF/MOSF w/Sepsis,12.0,under $11k,19662.0,white
+69.19598,male,0.0,CHF,14.0,$11-$25k,24859.0,asian
+77.74695,male,0.0,Lung Cancer,12.0,under $11k,16325.0,other
+80.09595,male,0.0,CHF,12.0,$11-$25k,5293.0,white
+71.54596,male,0.0,Lung Cancer,20.0,>$50k,23304.0,white
+60.61899,male,0.0,CHF,14.0,under $11k,49079.0,white

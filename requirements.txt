@@ -1,0 +1,21 @@
+anonymeter==1.0.0
+DataSynthesizer==0.1.13
+pyRAPL==0.2.3.1
+codecarbon==2.3.5
+scikit-learn==1.4.2
+termcolor==2.4.0
+notebook==7.2.1
+pymongo>=3.9.0
+memory-profiler >= 0.61.0
+GPUtil >= 1.4.0
+tabulate >= 0.9.0
+psutil >= 6.0.0
+wmi >= 1.4.9
+scipy >= 1.13.0 
+py7zr >= 0.21.1
+xlrd >= 2.0.1
+statsmodels >= 0.14.2
+lightgbm >= 4.5.0
+jupyter >= 7.2.1
+pandas >=2.2.3
+numpy>=1.26.4
